@@ -1,2 +1,2 @@
 # icon
-![icon.png](icon.png)
+![icon.jpg](icon.jpg)
